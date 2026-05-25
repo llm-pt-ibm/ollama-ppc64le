@@ -30,6 +30,8 @@ chmod +x ollama-ppc64le
 
 **Operating System:** AlmaLinux 8.10 (*ppc64le*), binary compatible with *Red Hat Enterprise Linux (RHEL)* 8.9/8.10.
 
+**Python environment:** Conda virtual environment.
+
 ## How to build
 
 ### Step 1 — Dependencies
